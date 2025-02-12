@@ -130,3 +130,7 @@ You are required to submit the following for review:
 
 ---
 &copy; 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+## How to reach Me
+
+Here is my GitHub username: lexusnealy and a walkthrough video on how to use the vehicle builder! https://drive.google.com/file/d/1R2l9cV1EgVhl-7Q9kHgpKQ6bVBZoek2L/view
